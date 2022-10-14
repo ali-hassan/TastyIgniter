@@ -44,9 +44,6 @@ TastyIgniter is an MIT-licensed community-driven project with its continuous dev
 2. Spreading the word about TastyIgniter.
 3. Becoming a sponsor by donating funds (see below).
 
-## Sponsors
-Become a sponsor and get your logo on our README on Github with a link to your site. 
-
 ### via Open Collective
 <a href="https://opencollective.com/tastyigniter" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/tastyigniter/sponsors.svg"></a>
 
